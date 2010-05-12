@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  setting: error_email_address
+  value: error@localhost.com
+
+two:
+  setting: send_email
+  value: 1
